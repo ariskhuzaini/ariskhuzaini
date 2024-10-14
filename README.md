@@ -8,4 +8,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariskhuzaini&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=FFD95B&icon_color=F8D866" width="495px" height="195px"/></a>
 </p> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&width=435&lines=I+cast+Nothingness..;...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&width=435&lines=I+cast+Nothingness..;.....;???" alt="Typing SVG" /></a>
